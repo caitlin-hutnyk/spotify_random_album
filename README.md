@@ -1,6 +1,6 @@
 # spotify_random_album
 
-Print a random album from your saved albums on spotify.
+Super simple script to print a random album from your saved albums on spotify.
 
 Requirements
 ------------
